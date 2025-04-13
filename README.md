@@ -24,12 +24,12 @@ Le site a été conçu pour être **responsive** :
 
 ## 🚀 Déploiement
 Le site est déployé sur **Vercel** :  
-🔗 [Voir le site en ligne](https://ton-lien-vercel.vercel.app) *(à remplacer par ton lien réel)*
+🔗 [Voir le site en ligne]([https://louayidrissisemlali.vercel.app/]) 
 
 ---
 
 ## 🔗 Repository GitHub
-📦 [Lien vers le repo GitHub](https://github.com/ton-username/nom-du-projet) *(à remplacer également)*
+📦 [Lien vers le repo GitHub]([https://github.com/louay-IS/Figma-maquette]) 
 
 ---
 
